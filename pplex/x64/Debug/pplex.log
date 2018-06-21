@@ -1,0 +1,6 @@
+﻿  TBase.cpp
+  TPlex.cpp
+  Создание кода...
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  pplex.vcxproj -> G:\downloasd\Тиханов\pplex.cpp\pplex.cpp\x64\Debug\pplex.exe
+  pplex.vcxproj -> G:\downloasd\Тиханов\pplex.cpp\pplex.cpp\x64\Debug\pplex.pdb (Partial PDB)
